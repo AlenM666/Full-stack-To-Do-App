@@ -12,6 +12,6 @@ Features:
 
 <br><br>
 
-![]("./public/Screenshot from 2024-12-05 23-28-35.png")
+![](./public/Screenshot from 2024-12-05 23-28-35.png)
 
 
